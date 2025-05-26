@@ -4,9 +4,6 @@
 
 Hi!
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YourWakaTimeUsername)](https://wakatime.com/@YourWakaTimeUsername)
-
-
 ---
 
 ### 🔧 Tech Stack
