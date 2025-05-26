@@ -1,8 +1,12 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋%20I'm%20Time-0N&fontSize=35&fontColor=white)
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋%20I'm%20Time-0N&fontSize=35&fontColor=white"/>
+</p>
 
+<!-- About Me -->
 ### 🧑‍💻 About Me
 
-Hi!
+Hi, welcome to my Github Profile!
 
 ---
 
@@ -22,7 +26,6 @@ Hi!
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?logo=jetpack-compose&logoColor=white&style=flat)
 
-
 #### ⚙️ Tools & Platforms
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
@@ -34,11 +37,13 @@ Hi!
 
 ### 📊 GitHub Stats
 
-![Time-0N's Stats](https://github-readme-stats.vercel.app/api?username=Time-0N&theme=radical&show_icons=true&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Time-0N&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Time-0N&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Time-0N&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Time-0N&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Time-0N&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</p>
 
 ---
 
@@ -48,4 +53,7 @@ Hi!
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+</p>
