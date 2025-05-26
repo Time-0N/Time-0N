@@ -41,7 +41,6 @@ Hi!
 ### 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:timeon.haas@gmail.com)
-[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?logo=spotify&logoColor=white&style=flat)](https://open.spotify.com/user/31ypb5f7cvcght5uktwqyf66ccoa)
 
 ---
 
