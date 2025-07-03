@@ -1,5 +1,5 @@
 <!-- About Me -->
-# 🔎 About Me
+# 🔎 About Me 🔍
 
 Console RULES!!!
 I'm a passionate developer who loves to build cool stuff and explore new tech.  
