@@ -7,10 +7,12 @@ Hi, welcome to my Github Profile!
 
 ---
 
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="30" />
+
 ### 🔧 Tech Stack
 
 #### 🌐 Languages
-![TypeScript](<img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=flat&label=" height="25" />)
+![TypeScript](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=flat&label=)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat)
