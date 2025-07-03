@@ -2,6 +2,7 @@
 # 🔎 About Me 🔍
 
 Console RULES!!!
+
 I use Arch btw. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="20" title="Arch Linux"/>  
 
 ---
