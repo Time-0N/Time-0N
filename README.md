@@ -1,7 +1,7 @@
 <!-- About Me -->
 # 🔎 About Me 🔍
 
-Console RULES!!!
+Always use dark mode! - Light attracts bugs.
 
 I use Arch btw. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="20" title="Arch Linux"/>  
 
