@@ -7,16 +7,16 @@ Hi, welcome to my Github Profile!
 
 ---
 
-<img src="https://cdn.simpleicons.org/typescript/3178C6" width="30" />
-
 ### 🔧 Tech Stack
 
 #### 🌐 Languages
-![TypeScript](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=flat&label=)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat)
+<p>
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="30" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="30" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="30" />
+  <img src="https://cdn.simpleicons.org/java/007396" width="30" />
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="30" />
+</p>
 
 #### 🧰 Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
