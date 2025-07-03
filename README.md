@@ -14,7 +14,6 @@ Hi, welcome to my Github Profile!
   <img src="https://cdn.simpleicons.org/typescript/3178C6" width="30" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="30" />
   <img src="https://cdn.simpleicons.org/python/3776AB" width="30" />
-  <img src="https://cdn.simpleicons.org/java/007396" width="30" />
   <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="30" />
 </p>
 
