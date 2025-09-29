@@ -8,9 +8,13 @@
 
 ---
 
-### 🔧 Tech Stack
+<h1 align="center">
+  🔧 Tech Stack
+</h1>
 
-#### 💻 Languages
+<h2 align="center">
+  💻 Languages
+</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="35" title="Kotlin"/>
@@ -18,7 +22,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="35" title="Rust"/>
 </p>
 
-#### ⚙️ Frameworks & Libraries
+<h2 align="center">
+  ⚙️ Frameworks & Libraries
+</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="35" title="Angular"/>
@@ -27,7 +33,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35" title="Spring"/>
 </p>
 
-#### 🛠️ Tools
+<h2 align="center">
+  🛠️ Tools
+</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" title="Git"/>
