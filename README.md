@@ -16,10 +16,10 @@
   💻 Languages
 </h2>
 <p align="center">
+  <img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" width="35" title="Rust"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="35" title="Kotlin"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" title="TypeScript"/>
-  <img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" width="35" title="Rust"/>
 </p>
 
 <h2 align="center">
