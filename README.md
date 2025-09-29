@@ -1,11 +1,11 @@
 <!-- About Me -->
 # 🔎 About Me 🔍
-
-Name: Timeon Haas
-Spawned: 09.03.2007
-
-I use Arch btw. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="20" title="Arch Linux"/>  
-
+<p align="center">
+  Name: Timeon Haas 
+  Spawned: 09.03.2007
+  
+  I use Arch btw. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="20" title="Arch Linux"/>  
+</p>
 ---
 
 ### 🔧 Tech Stack
