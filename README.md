@@ -1,5 +1,7 @@
 <!-- About Me -->
-# 🔎 About Me 🔍
+<h1 align="center">
+  🔎 About Me 🔍
+</h1>
 <p align="center">
   I use Arch btw. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="20" title="Arch Linux"/>  
 </p>
