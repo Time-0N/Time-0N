@@ -41,7 +41,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Time-0N&theme=material-palenight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Time-0N&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" height="150"/>
 </p>
 
 ---
