@@ -8,10 +8,6 @@
 
 ---
 
-<h1 align="center">
-  🔧 Tech Stack
-</h1>
-
 <h2 align="center">
   💻 Languages
 </h2>
@@ -38,9 +34,7 @@
 </h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="35" title="JetBrains IDEs (RustRover, IntelliJ, etc.)"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" title="Linux"/>
 </p>
 
 
