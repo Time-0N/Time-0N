@@ -1,9 +1,16 @@
 <!-- About Me -->
 <h1 align="center">
-  🔎 About Me 🔍
+  <pre>
+  _______                           ___   __    _
+ '   /    ` , _ , _     ___       .'   `. |\   | 
+     |    | |' `|' `. .'   `      |     | | \  | 
+     |    | |   |   | |----'      |     | |  \ | 
+     /    / /   '   / `.___,       `.__.' |   \| 
+                                                 
+  </pre>
 </h1>
 <p align="center">
-  I use Arch btw. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="20" title="Arch Linux"/>  
+  I use Arch btw. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="20" title="Arch Linux"/>
 </p>
 
 ---
@@ -53,3 +60,7 @@
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat" alt="Email"/>
   </a>
 </p>
+
+ <div>
+      <img src=https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Arch+Linux;CLI+%3E+%3E+%3E+GUI;Divine+intellect />
+  </div>
